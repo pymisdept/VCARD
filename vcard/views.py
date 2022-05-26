@@ -83,6 +83,7 @@ def upload(request):
         file_name = file_data.split(".")[0]
         file_type = file_data.split(".")[1]
         print(file_name, file_type)
+        # 学生统计表 xlxs
         if file_type in ["xlsx", "xls"]:
             print("file_type is excel")
         else:
