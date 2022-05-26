@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.1//EN
+N:Hu;James;;;
+FN:James Hu
+EMAIL;type=INTERNET;type=WORK;type=pref:jameshu@xensetech.hk
+TEL;type=WORK;type=VOICE;type=pref:2838 3030
+TEL;type=CELL;type=VOICE:6561 2892
+TEL;type=WORK;type=FAX:6561 2892
+item1.URL;type=pref:www.xensetech.hk
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
